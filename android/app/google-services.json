@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039663056506",
+    "project_id": "temtech-54119",
+    "storage_bucket": "temtech-54119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039663056506:android:b647d47f840d32c5215dc3",
+        "android_client_info": {
+          "package_name": "com.example.tem_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFXZeuYWwaHXUK7QEZxRxmPVerhl-l9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
